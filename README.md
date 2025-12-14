@@ -1,20 +1,5 @@
 # Meanwell PSU EndCap
-![](preview.png)
-
-For:
-
-- Meanwell LRS-350 (non PFC)
-- Meanwell RSP-320 (PFC)
-
-![](cablegland.png)
-
-A: 5mm
-B: 22mm
-C: 15mm
-D: 16mm
-
-Somewhat parametric
-
+## Disclaimer
 This disclaimer is mandatory reading before downloading, printing, assembling, or using any component of this design.
 1. Extreme Danger Warning
 
@@ -46,3 +31,23 @@ By downloading, printing, or using this Design, you, the User, acknowledge and a
 5. Indemnification and Release
 
 The User agrees to release, indemnify, and hold harmless the Contributor(s) from any and all claims, demands, losses, liabilities, costs, and expenses (including attorney's fees) arising out of or in connection with the User's possession, use, modification, or distribution of the Design, including, but not limited to, any claim of personal injury, property damage, fire, or death caused by the Design.
+
+## Overview
+![](preview.png)
+
+For:
+
+- Meanwell LRS-350 (non PFC)
+- Meanwell RSP-320 (PFC)
+
+![](cablegland.png)
+
+A: 5mm
+B: 22mm
+C: 15mm
+D: 16mm
+
+Somewhat parametric
+
+## Bolt Length
+Read PSU manual to determine maximum bolt length
