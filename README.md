@@ -12,6 +12,7 @@ MAINS VOLTAGE IS EXTREMELY DANGEROUS, POTENTIALLY LETHAL, AND CAN CAUSE FIRE, SE
 This design, including all files, code, documentation, and 3D models (the "Design"), is provided "AS IS," without any warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 The creator(s) of this Design (the "Contributor(s)") provide it solely for educational, experimental, or non-commercial research purposes. The Contributor(s) make no representation or warranty that the Design is safe, reliable, or fit for any specific use, especially not for use with mains voltage.
+
 3. Assumption of Risk
 
 By downloading, printing, or using this Design, you, the User, acknowledge and agree that:
